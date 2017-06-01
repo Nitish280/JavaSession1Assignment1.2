@@ -1,0 +1,12 @@
+JDK-Java development kit is development kit of the java programming language,
+    Java Development Kit contains the software and tools that you need to compile, debug, and run the apllication written in the
+    java programming language.
+    JDK has a collection of programming tools, including javac.
+    JDK has many componenet like development tools,sample code,runtime environment,additional libraries.
+
+JRE-Java Runtime Environment,it is used to provide runtime environment,it is the implementation of JVM.
+
+JVM-Java Virtual Machine,It enable the system to run the java code,It is a specification that provides runtime environment
+    in which java bytecode can be executed.
+    JVM is platform dependent,its main purpose is to load,verify and execute the code.
+
